@@ -6,12 +6,14 @@ The purpose of this webpage is providing users an in-depth analysis of UFO sight
 # Results #
 
 ***Main Page***
+
 As users load the page, they see pertinent information along with a description of UFO sightings. As they scroll down, a table displays information of those various sightings. Left to this table are filters to search the table.
 
 <p align="center">
 <img src="https://github.com/teachjanderson/UFOs/blob/main/Images/Mainpage.png" width="600" />
 
 ***User Interaction***
+  
 For users to filter the table data, they will click within the desired boxes left to the table. Users can search for individual criteria such as date, city, state, country, and shape of a combination of these criteria. As users enter the information and press return/enter, the table updates the information based on the search criteria. To reset the search criteria, users will refresh the website. To help users with the correct input, text holders such as "benton" and "circle" provide examples.  
 
 ***Users Searching by Individual Criteria***
