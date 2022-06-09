@@ -32,7 +32,7 @@ This page design comes with one drawback which is a limitation of the data. Curr
 
 Two simple changes which are recommended involve the search criteria. When a user enters information, the case and spelling must match. For example, typing "Benton" will not return data. The user needs to enter "benton" to find the information. This is also limited as users may not know what they're looking for in the data. Altering the search criteria to return specific or general results will provide more usability. Similarly, adding a refresh button below the filter search form will help users know how to reset the data table. 
 
-***Case and Spelling Requirements for the Form(**
+***Case and Spelling Requirements for the Form***
 <p align="center">
 <img src="https://github.com/teachjanderson/UFOs/blob/main/Images/PreciseSearching.png" width="600" />
   
