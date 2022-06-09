@@ -5,7 +5,7 @@ Overview of Project: Explain the purpose of this analysis.
 
 # Results #
 
-*** Analysis ***
+***Analysis***
 
 Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation. There is a description of how to perform a search, with images. (4 pt)
 
