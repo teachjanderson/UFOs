@@ -12,16 +12,6 @@
         crossorigin="anonymous"
     />
     <link rel="stylesheet" href="static/css/style.css">
-<style>
-    .bs-example {
-        margin: 20px;
-    }
-    .form-control:focus {
-        border-color: #ff80ff;
-        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(255, 100, 255, 0.5);
-    }
-</style>
-
 </head>
 <body class="bg-dark">
     <div class="wrapper">
@@ -55,13 +45,23 @@
             <div class="col-md-3">
                 <form class="bg-dark">
                     <p>Filter Search</p>
-                    <ul class="bg-dark">
-                        <li class="bg-dark">
+                    <ul class="list-group bg-dark">
+                        <li class="list-group-item bg-dark">
                             <label for="date">Enter Date</label>
                             <input type="text" placeholder="1/10/2010" id="datetime" />
-                        </li>
-                        <li class="bg-dark">
-                            <button id="filter-btn" type="button" class="btn-warning">Filter Table</button>
+                        <li class="list-group-item bg-dark">
+                            <label for="city">Enter a City</label>
+                            <input type="text" placeholder="benton" id="city" />
+                        <li class="list-group-item bg-dark">
+                            <label for="state">Enter a State</label>
+                            <input type="text" placeholder="ar" id="state" />
+                        <li class="list-group-item bg-dark">
+                            <label for="country">Enter a Country</label>
+                            <input type="text" placeholder="us" id="country" />
+                        <li class="list-group-item bg-dark">
+                            <label for="shape">Enter a Shape</label>
+                            <input type="text" placeholder="circle" id="shape" />
+                        </ul>    
                         </li>
                     </ul>
                 </form>
